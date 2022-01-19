@@ -1,7 +1,3 @@
-# Content: sites
-# Copyright: 2019, Ecole Polytechnique Federale de Lausanne.
-# License: Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
-# Version: Release 3 (06/28/2019)
 id	hit_id	uniprot_ac	uniprot_id	uniprot_description	organism	main_gene_name	gene_names	study_id	study_organism	study_cell_type	study_subcellular_fraction	pmid	authors	title	year	hit_techniques	large_scale	hit_list	acyl_type	isoform	pos	uncertain_pos	pats	apts	site_techniques
 SPALMS3	SPALMH5935	P21707	SYT1_RAT	Synaptotagmin-1 (Synaptotagmin I) (SytI) (p65)	Rattus norvegicus	Syt1	Syt1	36	Chlorocebus aethiops	CV-1	Total cell lysate	12782290	Heindel U et al.	Palmitoylation sites and processing of synaptotagmin I, the putative calcium sensor for neurosecretion.	2003	Point mutation of substrate,Labeling of substrate with [3H]palmitic acid	No	None	palmitate	NA	74	Yes			Point mutation of substrate,Labeling of substrate with [3H]palmitic acid
 SPALMS5	SPALMH5939	P23292	KC12_YEAST	Casein kinase I homolog 2 (EC 2.7.11.1)	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	YCK2	N1755,YNL154C,CKI1,YCK2	40	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Isogenic LRB759	NA	12370247	Roth AF et al.	The yeast DHHC cysteine-rich domain protein Akr1p is a palmitoyl transferase.	2002	Point mutation of substrate,Point mutation of palmitoyltransferase,Labeling of substrate with [3H]palmitoyl-CoA,Cleavage of thioester bonds with β-mercaptoethanol	No	None	palmitate	NA	545	Yes	P39010		Point mutation of substrate,Labeling of substrate with [3H]palmitic acid
